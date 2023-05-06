@@ -3,7 +3,7 @@
 The PowerShell script configures settings for the additional NIC of the OV applianceprofiles from templates
 
 ## Reference 
-OV Appliance Additional NIC (https://support.hpe.com/hpesc/public/docDisplay?docId=sd00001152en_us&page=s_configure-additional-nic-ov.html)
+OV Appliance Additional NIC(https://support.hpe.com/hpesc/public/docDisplay?docId=sd00001152en_us&page=s_configure-additional-nic-ov.html)
 
 
 
