@@ -3,8 +3,8 @@
 The PowerShell script configures settings for the additional NIC of the OV applianceprofiles from templates
 
 ## Reference 
-OV Appliance Additional NIC(https://github.com/nutanix/nutanix.ansible)
 
+OV Appliance Additional NIC(https://github.com/nutanix/nutanix.ansible)
 
 ## Prerequisites
 * HPE ONeView PowerShell library : ```` install-module -name HPEOneView.800 ````
