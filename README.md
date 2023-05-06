@@ -4,11 +4,11 @@ The PowerShell script configures settings for the additional NIC of the OV appli
 
 ## Reference 
 
-OV Appliance Additional NIC(https://github.com/nutanix/nutanix.ansible)
+OV Appliance Additional NIC: https://support.hpe.com/hpesc/public/docDisplay?docId=sd00001152en_us&page=s_configure-additional-nic-ov.html
 
 ## Prerequisites
 * HPE ONeView PowerShell library : ```` install-module -name HPEOneView.800 ````
-* Edit teh script and set variables
+* Edit the script and set variables
 
 ## To run the script
 ````
