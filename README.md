@@ -1,6 +1,6 @@
 ## Configure-OneView-Appliance-additional-nic
 
-The PowerShell script configures settings for the additional NIC of the OV applianceprofiles from templates
+The PowerShell script configures settings for the additional NIC of the OV appliance
 
 ## Reference 
 
